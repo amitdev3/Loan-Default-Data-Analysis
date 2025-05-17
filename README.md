@@ -36,3 +36,5 @@ This project analyzes a loan dataset to identify patterns and risk factors assoc
 - 🧠 Incremental Refresh enabled to optimize large dataset performance
 - 🔐 Row-Level Security (RLS) configured to control access based on user role
 
+Show what the dashboard looks like. ![Alt-text]()
+
