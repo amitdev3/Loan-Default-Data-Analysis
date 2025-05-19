@@ -1,5 +1,6 @@
 ## 🔍 Loan Default Prediction & Analysis Dashboard (Power BI + SQL)
-This project analyzes a loan dataset to identify patterns and risk factors associated with loan defaults. The goal is to clean the data using SQL in SQL Server and build a Power BI dashboard that provides actionable insights for financial institutions to make better lending decisions and for clear insights 
+This project analyzes a loan dataset to identify patterns and risk factors associated with loan defaults. The goal is to clean the data using SQL in SQL Server and build a Power BI dashboard that provides actionable insights for financial institutions to make better lending decisions and for clear insights. <br>
+[Click here to view the project](https://app.powerbi.com/links/lGDMFxh7QI?ctid=a3a31cf5-d129-4352-ab9d-a803b01de947&pbi_source=linkShare&bookmarkGuid=caca3de6-44b4-46b9-ac44-0ccf0f650c57)
 
 ## 📊 Dataset Features:
 ### The dataset includes the following features:
